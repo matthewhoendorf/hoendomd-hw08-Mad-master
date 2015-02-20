@@ -1,0 +1,6 @@
+nounone:your mom stripped down?|the British crown?|an angry clown?|a child who drowns?|the snobs uptown?|Batman tied down?
+nountwo:an old fart's car?|a moviestar?|your bro's guitar?|a KitKat bar?|the electric car?|A Bridge Too Far?|the Russian tsar?|a hipster bar?|Allahu Akbar?|Kendrick Lamar?|the prince of Qatar?
+nounthree:dad's assless chaps?|a dog that raps?|master of craps?|peach flavored schnapps?|a can of Pabst?|the kids in DAAP?|
+nounfour:every Oscar night?|the fat man's plight?|Amelia Earhart's flight?|every bit and byte?|your patent right?|your wedding night?|a camping site?|your civil rights?
+verb:controls|becomes|makes love with|molests|turnt up|ignores|beheads|aborts|acquires|airlifts|appoints|farts on|poops out|shakes up|blows up|beats up|chews up|curb stomps|holds back|insults|bitch slaps|backhands|Snapchats
+start:♫ ♫  Who <verb> <nounone> Who <verb> <nounone> We do, we do! ♫ ♫  Who <verb> <nountwo> Who <verb> <nountwo> We do, we do! ♫ ♫  Who <verb> <nounthree> Who <verb> <nounthree> We do, we do! ♫ ♫  Who <verb> <nounfour> Who <verb> <nounfour> We do, we dooooo! ♫ ♫
